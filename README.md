@@ -1,5 +1,5 @@
 ## Understanding Robustness of Vision Transformers
-This repository contains code used to analyse the robustness of Vision Transformer.
+This repository contains code used to analyse the robustness of Vision Transformers.
 An extensive report regarding the work done has been added.
 
 How to run?
